@@ -1,0 +1,5 @@
+blau
+verd
+groc
+vermell
+negre
